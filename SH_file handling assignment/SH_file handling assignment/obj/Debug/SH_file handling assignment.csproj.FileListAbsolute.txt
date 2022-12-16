@@ -1,0 +1,8 @@
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_file handling assignment\SH_file handling assignment\obj\Debug\SH_file handling assignment.csproj.AssemblyReference.cache
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_file handling assignment\SH_file handling assignment\obj\Debug\SH_file handling assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_file handling assignment\SH_file handling assignment\obj\Debug\SH_file handling assignment.csproj.CoreCompileInputs.cache
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_file handling assignment\SH_file handling assignment\bin\Debug\SH_file handling assignment.exe.config
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_file handling assignment\SH_file handling assignment\bin\Debug\SH_file handling assignment.exe
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_file handling assignment\SH_file handling assignment\bin\Debug\SH_file handling assignment.pdb
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_file handling assignment\SH_file handling assignment\obj\Debug\SH_file handling assignment.exe
+C:\Users\anjit\source\repos\SH_C# Practice work\SH_file handling assignment\SH_file handling assignment\obj\Debug\SH_file handling assignment.pdb
